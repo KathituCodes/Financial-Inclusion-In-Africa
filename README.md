@@ -63,26 +63,26 @@ The project was implemented in the following phases:
    streamlit run streamlit_app.py
    ```
 
-## 📁 Project Structure
+## Project Structure
 
 * `Financial_Inclusion_in_Africa_–_ML_Classification_Project.ipynb`: Main notebook
 * `model.pkl`: Trained ML model (saved using `joblib`)
 * `streamlit_app.py`: Streamlit app code
 * `requirements.txt`: Project dependencies
 
-## ⚠️ Notes
+## Notes
 
 * This project is **deployed locally**. To interact with it, clone the repo and run the app using the instructions above.
 * For now, no public deployment link is available.
 
-## 📚 Additional Materials
+## Additional Materials
 
 * Dataset: Provided via the Zindi Africa platform
 * Background on Financial Inclusion: [World Bank – Financial Inclusion Overview](https://www.worldbank.org/en/topic/financialinclusion)
 
 ---
 
-## 👤 Author
+## Author
 
 Urbanus Peter Kathitu
 
